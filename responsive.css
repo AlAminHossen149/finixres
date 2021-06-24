@@ -1,0 +1,341 @@
+@media all and (max-width:1275px){
+    ul.jon-menu li a {
+        font-size: 15px;
+        padding: 0px 8px;
+    }
+    .header-phone-content span {
+        font-size: 15px;
+    }
+    .header-phone-content a {
+        font-size: 15px;
+    }
+    .btn-btn {
+        padding: 10px 30px;
+    }
+}
+@media all and (max-width:1200px){
+    ul.jon-menu li a {
+        font-size: 13px;
+        padding: 0px 4px;
+    }
+    .slider-content h1 {
+        font-size: 45px;
+    }
+    .header-phone-icon span {
+        position: absolute;
+        visibility: hidden;
+        opacity: 0;
+    }
+    .about-right-text h1 {
+        font-size: 35px;
+    }
+    .about-right-text {
+        text-align: center;
+        margin-bottom: 15px;
+    }
+    .call-left h1 {
+        font-size: 25px;
+    }
+    .call-right-icon span {
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        font-size: 25px;
+    }
+    .call-right-text h1 {
+        font-size: 25px;
+    }
+    .chooseus-section {
+        padding: 0px 0 !important;
+    }
+    .Funding-section {
+        padding: 0 0 !important;
+    }
+    .company-text-text p {
+        font-size: 14px;
+    }
+    .company-left-items h1 {
+        font-size: 35px;
+    }
+    .company-text-text h3 {
+        font-size: 20px;
+    }
+    .company-icon span {
+        font-size: 30px;
+    }
+    .funding-left-items h1 {
+        font-size: 35px;
+    }
+    .funding-left-items ul li p {
+        font-size: 14px;
+    }
+    .about-right-text h1 {
+        font-size: 30px;
+    }
+    .about-right-text p {
+        font-size: 15px;
+    }
+    .company-section {
+        padding: 0 0 !important;
+    }
+    .serives-section {
+        padding-top: 1px !important;
+    }
+    .serives-auto li strong {
+        font-size: 15px;
+    }
+    .serives-auto li span i {
+        width: 70px;
+        height: 70px;
+        line-height: 70px;
+        font-size: 25px;
+    }
+    .serives-items-text h3 {
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+    .serives-items-text p {
+        font-size: 15px;
+    }
+    .serives-items-text h2 {
+        font-size: 20px;
+    }
+    .serives-items-text ul li {
+        font-size: 15px;
+    }
+    .serives-items-text h4 {
+        font-size: 20px;
+    }
+    .serives-items-text h5 {
+        font-size: 20px;
+    }
+    .testimonial-section {
+        padding: 0 0 !important;
+    }
+    .testimonial-text p {
+        font-size: 20px;
+    }
+    .textimonial-head-tag h3 {
+        font-size: 20px;
+    }
+    .team-section {
+        padding-top: 0 !important;
+    }
+    .member-contetn-text h4 {
+        font-size: 18px;
+    }
+    .member-contetn-text span {
+        font-size: 14px;
+    }
+    .member-social-icon ul li a {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+    }
+    .news-section {
+        padding-top: 0 !important;
+    }
+    .news-img-content h6 {
+        font-size: 15px;
+    }
+    .news-img-content h3 {
+        font-size: 23px;
+    }
+    .footer-section {
+        padding: 0 0 !important;
+    }
+    .footer-widget p {
+        font-size: 17px;
+        line-height: 25px;
+    }
+    .widget-social ul li {
+        margin-right: -3px;
+    }
+    .about-right-text {
+        text-align: left;
+    }
+}
+@media all and (max-width:992px){
+    .slider-content h1 {
+        font-size: 30px;
+    }
+    .slider-content p {
+        font-size: 15px;
+    }
+    .poster-items img {
+        width: 140px;
+    }
+    .about-right-text h1 {
+        font-size: 22px;
+    }
+    .about-conent-items {
+        height: 150px;
+        width: 160px;
+        left: 175px;
+    }
+    .about-right-text {
+        text-align: left;
+    }
+    .about-content h2 {
+        font-size: 50px;
+    }
+    .about-content p {
+        font-size: 12px;
+    }
+    .funding-left-items h1 {
+        font-size: 25px;
+    }
+    .funding-left-items {
+        margin-bottom: 15px;
+    }
+    .call-left h1 {
+        font-size: 20px;
+    }
+    .call-right-text h1 {
+        font-size: 17px;
+    }
+    .call-right-icon span {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+    }
+    .call-right-icon {
+        margin-top: -14px;
+    }
+    .call-right-text {
+        margin-top: -12px;
+    }
+    .company-left-items h1 {
+        font-size: 30px;
+    }
+    .serives-auto{
+        width: 75%;
+        margin: auto;
+    }
+    .serives-photo {
+        text-align: center;
+    }
+    .testimonial-text p {
+        font-size: 15px;
+    }
+    .member-contetn-text span {
+        margin-bottom: 10px;
+        display: inline-block;
+    }
+    .team-section {
+        padding-bottom: 0 !important;
+    }
+    .news-img-content a {
+        margin-bottom: 15px;
+        display: inline-block;
+    }
+    .news-img-thumnil img:hover {
+        transform: scale(1.1);
+    }
+    .widget-social ul li {
+        margin-right: 10px;
+    }
+    .footer-widget {
+        padding-top: 20px !important;
+        padding-bottom: 0 !important;
+    }
+    .slider-section {
+        background-size: 130% 100%;
+    }
+}
+@media all and (max-width:768px){
+    .slider-section {
+        background-size: 128% 65%;
+    }
+    .slider-content h1 {
+        font-size: 28px;
+        margin: 5px 0;
+    }
+    .slider-content p {
+        font-size: 14px;
+        margin-bottom: 15px;
+    }
+    .btn-btn {
+        padding: 5px 15px;
+    }
+    .poster-items img {
+        width: 100px;
+    }
+    .poster-items {
+        padding: 0 0 !important;
+    }
+    .about-right-text {
+        margin-top: 20px;
+    }
+    .choose-right-icon span {
+        width: 70px;
+        height: 70px;
+        line-height: 70px;
+    }
+    .choose-right-box h3 {
+        font-size: 20px;
+        margin: 10px 0 !important;
+    }
+    .choose-right-box p {
+        font-size: 15px;
+    }
+    .funding-left-items h1 {
+        font-size: 18px;
+        font-weight: 500;
+        margin-bottom: 15px;
+    }
+    .funding-left-items ul li h3 {
+        font-size: 18px;
+    }
+    .call-left h1 {
+        border-right: none;
+    }
+    .call-left h1 {
+        font-size: 18px;
+    }
+    .call-right-text h1 {
+        font-size: 15px;
+    }
+    .company-left-items h1 {
+        font-size: 25px;
+        margin-top: -45px;
+    }
+    .company-text-text h3 {
+        font-size: 18px;
+    }
+    .company-text-text p {
+        font-size: 14px;
+        line-height: 25px;
+        margin-bottom: 5px;
+    }
+    .testimonial-text p {
+        margin-top: -75px;
+    }
+    .textimonial-head-tag {
+        text-align: center;
+    }
+    .textimonial-head-tag h3 {
+        font-size: 16px;
+    }
+    .testimonial-photo {
+        text-align: center;
+    }
+    .about-right-text p {
+        width: 100% !important;
+    }
+    .member-img {
+        text-align: center;
+    }
+    .member-contetn-text {
+        text-align: center;
+    }
+    .news-img-content h3 {
+        font-size: 20px;
+    }
+    .news-img-content h6 {
+        font-size: 14px;
+    }
+    .news-img-content a {
+        font-size: 16px;
+    }
+}
